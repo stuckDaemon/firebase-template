@@ -15,7 +15,7 @@ Just follow the instructions, and you will have a nice starting point for your w
 
 ### SETUP
 * Download and extract the zip file of the project from github repo https://github.com/stuckDaemon/firebase-template 
-* Rename the folder from `ng-generics-master` to `[PROJECT_NAME]` (whichever you want to use of course)
+* Rename the folder from `firebase-template-master` to `[PROJECT_NAME]` (whichever you want to use of course)
 * Open it with IntelliJ
 
 ### RENAMING
